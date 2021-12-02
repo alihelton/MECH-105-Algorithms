@@ -1,0 +1,3 @@
+**Mechanical 105 False Position Algorithm**
+
+This script develops a function which estimates the root of a given function. The function will require the inputs of the lower guess, upper guess, the desired relative error, and any additional parameters used by the function. The function then outputs the estimated root location, the function, the approximate relative error, and how many iterations were performed. 
